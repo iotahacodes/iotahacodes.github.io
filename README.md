@@ -1,2 +1,1 @@
-# iotahacodes.github.io
-static info page
+I LOVE YOU SANA JOON :)
