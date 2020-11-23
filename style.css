@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'NerkoOne';
+	src: url('NerkoOne.ttf');
+}
+
+body {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 100vh;
+	background-color:#f6f6f6;
+	color:#000;
+}
+  
+.typewrite > .wrap { 
+	color: #000;
+	font-family: 'NerkoOne';
+}
+  
+* {
+	color:#000; text-decoration: none; 
+}
